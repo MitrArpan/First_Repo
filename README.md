@@ -1,4 +1,4 @@
 # First_Repo
 This is my first Git Repository
 <br>
-Author - Arpan Mitra
+Author - Arpan Mitra (JIS College of Engineering)
